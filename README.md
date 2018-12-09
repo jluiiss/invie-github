@@ -1,2 +1,2 @@
 # invie-github
-pagina de guitarras
+pagina de guitarras Invie y Curso de @Platzy
